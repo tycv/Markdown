@@ -11,7 +11,7 @@ Current web languages:
 + Markdown
 
 To come:
-+Matlab
-+HTML/CSS (possibly)
++ Matlab
++ HTML/CSS (possibly)
 
 The source for this page can be found on [Github](github.com/tycv/Markdown).
