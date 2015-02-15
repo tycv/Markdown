@@ -4,17 +4,17 @@
 This page will be updated as I continue to learn more.
 
 Current programming languages:
-<ul>
-<li>Python</li>
-<li>C++</li>
-</ul>
+
+- Python
+- C++
+
 Current web languages:
-<ul>
-<li>Markdown</li>
-</ul>
+
+- Markdown
+
 Languages for the future:
-<ul>
-<li>Matlab</li>
-<li>HTML/CSS (possibly)</li>
-</ul>
+
+- Matlab
+- HTML/CSS (possibly)
+
 The source for this page can be found on [Github](http://www.github.com/tycv/Markdown/tree/master/COE_Web).
