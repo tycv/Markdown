@@ -1,0 +1,4 @@
+Heron's Formula
+
+Description: Write, test and execute a function that has inputs a, b, c.  The function should compute s first.  If the value of s is positive, then the function computes and returns the area A.  If s is negative, then a, b, and c do not form a triangle, and the function should return A = -1 and let the user know that there is an error.  You do not need input or output files for this problem.  
+Input: 
