@@ -13,16 +13,15 @@ Program:
 
 1. initialize number_batches, batch, temp, pres, dwell, 
    bad_temp_count, bad_pres_count, bad_dwell_count, fin, fout
-2. do-while loop to read the data   //means we dont have to enter into it before
+2. while loop to get data from fin
 
-    1. condition: !fin.eof()
-    2. cin -> batch, temp, pres, dwell
-    3. test if temp, pres, and dwell are in a good range
+    1. condition: cin -> batch, temp, pres, dwell
+    2. test if temp, pres, and dwell are in a good range
         - if they are good, print batch, temp, pres, and dwell to fout && continue
         - if they are bad because of temperature, add to bad temp count
         - if they are bad because of pressure, add to bad pres count
         - if they are bad because of dwell time, add to bad dwell count
-    4. number_batches += 1
+    3. number_batches += 1
 3. calculate percent bad for each category (bad count/number_batches)
 4. print number for each bad category 
 5. print number_batches
