@@ -5,9 +5,10 @@
 Description: Write a program that reads a data file containing data on batches of rejected sutures, and then analyzes and reports on this data.  Write the output to a file.  This output file will have your name or names, and the results in terms of percent of failures in each category, the total numbers in each category and the total number of batches rejected. Also, you need to check that all data is correct, that it is actually a rejected batch.  
 
 Input: data file
+
 Output: output file with names, percent failure of category, total number in each category, number of rejected batches
 
-Functions:
+Functions: N/A
 
 Program:
 
